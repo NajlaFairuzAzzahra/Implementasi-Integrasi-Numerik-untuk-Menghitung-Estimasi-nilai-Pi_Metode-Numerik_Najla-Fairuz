@@ -1,0 +1,12 @@
+fungsi integrasi:
+def f(x):
+    return 4 / (1 + x**2)
+
+pembagian interval:
+x = np.linspace(a, b, N+1)
+
+nilai fungsi di x:
+y = f(x)
+
+nilai nilai y di method:
+y = f(x)
